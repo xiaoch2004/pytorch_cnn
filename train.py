@@ -3,7 +3,7 @@ import torchvision
 import torchvision.transforms as transforms
 import torch.optim as optim
 import torch.nn as nn
-from pytorchprac import Net
+from Model import Net
 
 net = Net()
 
